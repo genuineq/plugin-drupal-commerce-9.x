@@ -1,0 +1,11 @@
+logs
+*.log
+npm-debug.log*
+.npm
+.idea
+.DS_Store
+vendor
+.env
+.env.production
+node_modules
+cypress.env.json
