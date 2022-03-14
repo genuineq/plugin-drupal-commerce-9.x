@@ -1,0 +1,11 @@
+{
+  "name": "paylike/plugin-drupalcommerce9",
+  "description": "Paylike drupal commerce 9 gateway development",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Genuineq",
+      "email": "office@genuineq.com"
+    }
+  ]
+}
