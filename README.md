@@ -1,2 +1,1 @@
-# plugin-drupal-commerce-9.x
-Drupal Commerce plugin for Paylike
+# Drupal Commerce 9.x plugin for Paylike
